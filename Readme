@@ -7,7 +7,11 @@ IN CODE tab:
 1> File named as HTT_DNAJB1_TP53_MAPk8..... include all the necessay gene that can be the crucial target for this HD disease derieved from gene cards, omim, Disgenet database enrichment in string
 and some other publications which i havent listed, more than 15K gene.
 
-2>File named as first-enrichment-after-wgcna.png is the WGCNA result file after the analysis around top >200 genes png file : in branches you can see the tsv file for the WGCNA analysis result.
+2>File named as first-enrichment-after-wgcna.png is the WGCNA result file after the analysis around top >200 genes png file : in BRANCHES you can see the tsv file for the WGCNA analysis result.
+          IN BRANCHES i also include the wgcna data:
+                        1) Heatmap
+                        2) Volcano
+                        3) Original csv file of result
 
 3> top-enriched-targets.png repreent the even best targets sophisticated one having maximum score and some are identified as hub gene (by Gephi), this represent the combined WGCNA and other database
 results combined givivng only the hub and the key linking factor connicting them to HTT which is CSNK2A1, CSNK2A2 genes.
